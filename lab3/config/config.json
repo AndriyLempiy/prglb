@@ -1,0 +1,34 @@
+{
+	"development": {
+		"username": "nfrzrgnufwbcjj",
+		"password": "e57a6ee5502294e8e23308a05182909326df472555407b729fc4851329cdadc9",
+		"database": "d2f3up4h1vlr9a",
+		"host": "ec2-54-246-98-119.eu-west-1.compute.amazonaws.com",
+		"port": "5432",
+		"dialect": "postgres",
+		"dialectOptions": {
+			"ssl": true
+		}
+	},
+	"test": {
+		"username": "root",
+		"password": null,
+		"database": "test",
+		"host": "127.0.0.1",
+		"dialect": "sqlite",
+		"dialectOptions": {
+			"ssl": true
+		}
+	},
+	"production": {
+		"username": "nfrzrgnufwbcjj",
+		"password": "e57a6ee5502294e8e23308a05182909326df472555407b729fc4851329cdadc9",
+		"database": "d2f3up4h1vlr9a",
+		"host": "ec2-54-246-98-119.eu-west-1.compute.amazonaws.com",
+		"port": "5432",
+		"dialect": "postgres",
+		"dialectOptions": {
+			"ssl": true
+		}
+	}
+}
